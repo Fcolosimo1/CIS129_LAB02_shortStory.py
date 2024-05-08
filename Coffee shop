@@ -1,0 +1,9 @@
+# Author: Fedele Colosimo
+# CIS129 Module 3: Lab
+# Prints: Coffee Shop simulator
+# Coffee Shop Program
+# Asks the user for the number of coffee and muffins they are purchasing.
+# Calculates the subtotal, tax, and total of the purchase.
+# Displays a formatted receipt.
+
+# Function to calculate the total cost of items including tax
